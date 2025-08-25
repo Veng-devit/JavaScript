@@ -4,4 +4,5 @@ console.log("Map method:" , discountedPrices);
 function printDiscount(price){
     console.log("Discounted price: $", price);
 }
+
 discountedPrices.forEach(printDiscount);

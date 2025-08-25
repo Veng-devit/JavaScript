@@ -4,3 +4,4 @@ console.log("Extract:", extract);
 const checkAge=age=>age>10;
 const result=numbers.filter(checkAge);
 console.log("Result:", result);
+
